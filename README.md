@@ -44,7 +44,7 @@
 ## 🔝 Top Contributed Repo
 
 🔗 [University_portal](https://github.com/iamSaifulhassan/University_portal)
-🔗 [BookRead]((https://github.com/iamSaifulhassan/book-read-app.git))
+🔗 [BookRead](https://github.com/iamSaifulhassan/book-read-app.git)
 
 
 ---
