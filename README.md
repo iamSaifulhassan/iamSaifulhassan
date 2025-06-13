@@ -1,6 +1,6 @@
-<!-- Sleek Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=223060&height=120&section=header&text=Hi,%20I'm%20Saif%20👋&fontSize=36&fontColor=ffffff&fontAlignY=50&desc=Flutter%20|%20Laravel%20|%20Figma%20Enthusiast&descAlignY=75&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=223060,00e5ff&height=140&section=header&text=Hi,%20I'm%20Saif%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Flutter%20%7C%20Laravel%20%7C%20Figma%20Enthusiast&descAlign=70&descAlignY=65" />
 </p>
 
 ---
@@ -8,8 +8,8 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <b>Saif</b> here, Software Engineering student at <b>COMSATS Islamabad</b><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=223060&center=true&width=435&lines=Flutter+Mobile+App+Developer;Laravel+Backend+Engineer;UI%2FUX+Designer+%7C+Figma;SQL%2FMySQL+for+robust+data!">
+  <b>Saif</b> • Software Engineering @ <b>COMSATS Islamabad</b> <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=800&color=00E5FF&center=true&width=410&lines=Flutter+Dev+%F0%9F%90%AC;Laravel+Backend+%F0%9F%92%BB;UI%2FUX+in+Figma+%F0%9F%96%BC%EF%B8%8F;Learning+every+day+%F0%9F%92%AB" />
 </p>
 
 ---
@@ -17,24 +17,24 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,figma,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,figma,git" />
 </p>
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
 | Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [BookRead App](https://github.com/iamSaifulhassan/book-read-app.git) | Read PDF/EPUB books on mobile | Flutter · Firebase |
-| [University Portal](https://github.com/iamSaifulhassan/University_portal) | Student/Subject Management | Laravel · MySQL |
+| :-: | :-- | :-: |
+| [📚 **BookRead App**](https://github.com/iamSaifulhassan/book-read-app.git) | PDF/EPUB mobile reader | Flutter · Firebase |
+| [🎓 **University Portal**](https://github.com/iamSaifulhassan/University_portal) | Student & subject manager | Laravel · MySQL |
 
 ---
 
-## 🏆 GitHub Achievements & Progress
+## 🏆 GitHub Progress
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamSaifulhassan&theme=onedark&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-contributions-api.deno.dev/iamSaifulhassan.svg" width="90%" />
 </p>
 
 ---
@@ -51,21 +51,28 @@
 
 ---
 
-## 🧰 Tools
+## 🧠 Currently Exploring
 
-- VS Code
-- Git & GitHub
-- Figma
-- Postman
+- 🌀 **Riverpod** for Flutter state management  
+- 🔐 **Laravel API + Sanctum Auth**  
+- 🧪 **Widget & Integration Testing** in Flutter
+
+---
+
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
+</p>
 
 ---
 
 ## 💬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saif-ul-hassan-03aa80287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-223060?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/saif_ulhassan" target="_blank"><img src="https://img.shields.io/badge/Instagram-223060?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/1Bz3c7icDQ/" target="_blank"><img src="https://img.shields.io/badge/Facebook-223060?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saif-ul-hassan-03aa80287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/saif_ulhassan" target="_blank"><img src="https://img.shields.io/badge/Instagram-00e5ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1Bz3c7icDQ/" target="_blank"><img src="https://img.shields.io/badge/Facebook-00e5ff?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
