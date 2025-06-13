@@ -1,7 +1,12 @@
-<!-- ✨ Stylish Typing Hero Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=7F27FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Saif.;Flutter+%F0%9F%93%B1+App+Developer.;Laravel+%F0%9F%92%BB+Web+Explorer.;UI%2FUX+Designer+%F0%9F%8E%A8+and+Thinker." alt="Typing Banner">
-</h1>
+<!-- 🎨 Wavy Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F27FF&height=220&section=header&text=Hey%20there%20👋,%20I'm%20Saif!&fontSize=40&fontAlignY=35&desc=Flutter%20Dev%20|%20Laravel%20Explorer%20|%20UI%2FUX%20Thinker&descAlignY=60&animation=fadeIn" />
+</p>
+
+<!-- ✍️ Typing Effect Sub-Banner -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+Apps+with+Passion+%26+Precision;Flutter+%F0%9F%93%B1+%7C+Laravel+%F0%9F%92%BB+%7C+UI%2FUX+%F0%9F%8E%A8;Software+Engineer+%7C+Tech+Explorer+%7C+Design+Thinker" />
+</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" height="180" />
@@ -11,16 +16,17 @@
 
 ## 👨‍🎓 About Me
 
-Hey there! I'm **Saif**, a Software Engineering student from **COMSATS Islamabad**, with a heart set on building things that **look good, feel smooth, and work great**.
+Hi! I'm **Saif**, a curious and creative Software Engineering student at **COMSATS Islamabad** 🇵🇰  
+I design & develop mobile and web apps that are clean, beautiful, and scalable.
 
-- 🔧 Currently crafting Flutter apps with Firebase & Laravel backends  
-- 🎯 Exploring advanced state management and REST APIs  
-- 💡 Love turning wireframes into pixel-perfect realities  
-- ✨ Believe in shipping clean code with beautiful design  
-- 🧠 Always learning, always building
+- 🎯 **Focused on Flutter, Firebase & Laravel**
+- 🎨 Passionate about UI/UX and clean architecture
+- ⚙️ Obsessed with elegant code and minimal design
+- 🔍 Always exploring new tech — currently into Riverpod & Laravel APIs
 
-🧩 **Side Doses of Creativity**:  
-[🎨 Figma UI Design](https://www.figma.com/design/87zDGjMBjTJzTdQpZbrDdl/HCI-Project?node-id=0-1) · [📚 BookRead App](https://github.com/iamSaifulhassan/book-read-app.git) · [🛠️ University Portal](https://github.com/iamSaifulhassan/University_portal)
+🖌️ [Figma UI Design](https://www.figma.com/design/87zDGjMBjTJzTdQpZbrDdl/HCI-Project?node-id=0-1)  
+📘 [BookRead App](https://github.com/iamSaifulhassan/book-read-app.git)  
+🛠️ [University Portal](https://github.com/iamSaifulhassan/University_portal)
 
 ---
 
@@ -32,37 +38,37 @@ Hey there! I'm **Saif**, a Software Engineering student from **COMSATS Islamabad
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamSaifulhassan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=iamSaifulhassan&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamSaifulhassan&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=iamSaifulhassan&theme=radical&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSaifulhassan&layout=compact&theme=tokyonight&hide_border=false" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSaifulhassan&layout=compact&theme=radical&hide_border=false" width="38%" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| 📱 Project        | 🔗 Link | ⚙️ Stack |
+| 🚀 Project        | 🔗 Link | ⚙️ Stack |
 |------------------|---------|----------|
-| 📖 **BookRead App** | [View Repo](https://github.com/iamSaifulhassan/book-read-app.git) | Flutter · Firebase · PDF/EPUB |
-| 🎓 **University Portal** | [View Repo](https://github.com/iamSaifulhassan/University_portal) | Laravel · MySQL · Blade Views |
+| 📖 **BookRead App** | [GitHub Repo ↗](https://github.com/iamSaifulhassan/book-read-app.git) | Flutter · Firebase · PDF/EPUB |
+| 🎓 **University Portal** | [GitHub Repo ↗](https://github.com/iamSaifulhassan/University_portal) | Laravel · MySQL · Blade Views |
 
 ---
 
-## 🧠 What I'm Learning
+## 🧠 Currently Exploring
 
-- 🧩 **Riverpod + BLoC** – Scalable state management in Flutter  
-- 🔐 **API Auth** – Securing Laravel + Firebase-based backends  
-- 🧪 **Testing Flutter** – Widget, unit, and integration
+- ⚛️ **Riverpod & BLoC** – Robust Flutter State Management  
+- 🔐 **Laravel Auth APIs** – RESTful Backends with Sanctum  
+- 🧪 **Flutter Testing** – From Widget to Integration Tests
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saif-ul-hassan-03aa80287/" target="_blank">
@@ -89,5 +95,5 @@ Hey there! I'm **Saif**, a Software Engineering student from **COMSATS Islamabad
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iamSaifulhassan&icon=0&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=iamSaifulhassan&icon=0&color=7F27FF" />
 </p>
