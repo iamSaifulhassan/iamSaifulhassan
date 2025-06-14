@@ -51,7 +51,6 @@ motto: "Still figuring it out... stay tuned."
 - 🌱 Learning **Laravel APIs** and **Riverpod/Bloc**
 - 💬 Ask me about **Flutter + Firebase**
 - 👀 Exploring **Testing and Clean Architecture**
-- ⚡ Fun fact: **I can redesign your UI with just coffee**
 </div>
 
 <br clear="both" />
