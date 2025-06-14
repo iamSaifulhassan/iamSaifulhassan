@@ -1,78 +1,65 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Saif;Flutter+Developer;UI%2FUX+Designer;Full-Stack+Explorer" alt="Typing SVG" />
-</h1>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+22961
+Fork on GitHub
+7697
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Hi 👋, I'm Saif Ul Hassan</h1>
+<h3 align="center">flutter developer | UI/UX Designer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaifulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaifulhassan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsaifulhassan" alt="iamsaifulhassan" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter, Mindluster course of Flutter**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iamsaifulhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsaifulhassan" height="30" width="40" /></a>
+<a href="https://fb.com/saif.ulhassan.779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saif.ulhassan.779" height="30" width="40" /></a>
+<a href="https://instagram.com/saif_ulhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saif_ulhassan" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## 🧠 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsaifulhassan&show_icons=true&locale=en&layout=compact" alt="iamsaifulhassan" /></p>
 
-- 🎓 Student at **COMSATS University Islamabad**  
-- 📱 Building apps with **Flutter + Firebase**
-- 🌐 Exploring **Laravel** for full-stack development
-- 💻 Skilled in `Java`, `Kotlin`, `Python`, `C++`, `Dart`
-- 🎨 Check out my [UI/UX Figma Design](https://www.figma.com/design/87zDGjMBjTJzTdQpZbrDdl/HCI-Project?node-id=0-1)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsaifulhassan&show_icons=true&locale=en" alt="iamsaifulhassan" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaifulhassan&" alt="iamsaifulhassan" /></p>
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,python,cpp,c,mysql,laravel,firebase,figma&perline=8" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamSaifulhassan&show_icons=true&theme=radical&hide_border=false" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=iamSaifulhassan&theme=radical&hide_border=false" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSaifulhassan&layout=compact&theme=radical&hide_border=false" width="40%" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-| 🧩 Project | 🔗 Link | ⚙️ Stack |
-|-----------|---------|---------|
-| 📚 BookRead App | [GitHub Repo](https://github.com/iamSaifulhassan/book-read-app.git) | Flutter · Firebase · EPUB/PDF |
-| 🏫 University Portal | [GitHub Repo](https://github.com/iamSaifulhassan/University_portal) | Laravel · MySQL · Web Auth |
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 Riverpod & Bloc for Flutter State Management  
-- 🌐 Laravel APIs for cross-platform backend  
-- 🧪 Testing: Unit | Widget | Integration
-
----
-
-## 💬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saif-ul-hassan-03aa80287/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/saif_ulhassan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/share/1Bz3c7icDQ/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
----
-
-## 🌀 Fun Fact
-
-> “Still figuring it out... stay tuned.”  
-> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iamSaifulhassan&icon=6&color=4" />
-</p>
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
