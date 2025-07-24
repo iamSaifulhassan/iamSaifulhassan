@@ -123,7 +123,7 @@ motto: "Still figuring it out... stay tuned."
 ## 🌱 Currently Learning
 
 - 💡 Riverpod & Bloc for Flutter State Management  
-- 🌐 Laravel APIs for cross-platform backend  
+- 🌐 Node JS Server side working related to Cross Platform App Development 
 - 🧪 Testing: Unit · Widget · Integration  
 
 ---
