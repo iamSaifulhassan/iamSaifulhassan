@@ -116,7 +116,7 @@ motto: "Still figuring it out... stay tuned."
 | 🧩 Project | 🔗 Link | ⚙️ Stack |
 |-----------|---------|---------|
 | 📚 BookRead App | [GitHub Repo](https://github.com/iamSaifulhassan/book-read-app.git) | Flutter · Firebase · PDF |
-| 🏫 University Portal | [GitHub Repo](https://github.com/iamSaifulhassan/University_portal) | Laravel · MySQL · Web Auth |
+| 🏫 University Portal | [GitHub Repo](https://github.com/iamSaifulhassan/University_portal) | MySQL · Java |
 
 ---
 
