@@ -38,7 +38,8 @@ location: Pakistan
 
 current_focus:
   - Flutter Development
-  - Laravel for Full-Stack Apps
+  - Node JS for Backend server
+  - Gain experience building apps of Industry level
   - UI/UX Design in Figma
 
 languages: [Dart, Java, Kotlin, C++, C, Python, SQL]
